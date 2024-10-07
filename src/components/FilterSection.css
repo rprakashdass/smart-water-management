@@ -1,0 +1,11 @@
+.filter-section {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .filter-section select {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

@@ -1,0 +1,13 @@
+.water-management-info {
+    margin-top: 20px;
+  }
+  
+  .water-management-info h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .water-management-info p {
+    font-size: 1em;
+    color: #666;
+  }
